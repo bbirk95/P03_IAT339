@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin-left: .6em;
+}
+
+h1 {
+    font-family: 'Ramabhadra', cursive, Helvetica, sans-serif;
+}
+
+h2 {
+    font-family: 'Ramabhadra', cursive, Helvetica, sans-serif;
+}
+
+h3 {
+    font-family: 'Ramabhadra', cursive, Helvetica, sans-serif;
+}
+
+p{
+     font-family: 'Open Sans', cursive, Helvetica, sans-serif;
+}
+
+.col-50 {
+    
+    max-width: 50%;
+}
