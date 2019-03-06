@@ -4,22 +4,18 @@
 
 h1 {
     font-family: 'Ramabhadra', cursive, Helvetica, sans-serif;
-    margin-left: 1em;
 }
 
 h2 {
     font-family: 'Ramabhadra', cursive, Helvetica, sans-serif;
-    margin-left: 1em;
 }
 
 h3 {
     font-family: 'Ramabhadra', cursive, Helvetica, sans-serif;
-    margin-left: 1em;
 }
 
 p {
     font-family: 'Open Sans', cursive, Helvetica, sans-serif;
-
 }
 
 ol {
@@ -34,14 +30,14 @@ ol {
 }
 
 @media only screen and (max-width: 700px) {
-    
-    .col-50{
+
+    .col-50 {
         max-width: 100%;
         margin: 1em;
-     
+
     }
-    
-    iframe{
+
+    iframe {
         max-width: 100%;
     }
 }
